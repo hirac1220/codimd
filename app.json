@@ -73,11 +73,11 @@
             "required": false
         },
         "HMD_GITHUB_CLIENTID": {
-            "description": "GitHub API client id",
+            "description": "cd5dc25f788e25276f98",
             "required": false
         },
         "HMD_GITHUB_CLIENTSECRET": {
-            "description": "GitHub API client secret",
+            "description": "4602ee58ce4f417a431009cf0f80efa5e9b2ef23",
             "required": false
         },
         "HMD_GITLAB_BASEURL": {
